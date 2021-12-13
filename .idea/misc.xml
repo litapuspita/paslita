@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_desc_kfc.xml" value="0.16" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_desc_mcd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_descpizzahut.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_descrechesse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_kfc.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_mcd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_pizzahut.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_potokfc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC RPL/Documents/paslita/app/src/main/res/layout/activity_richesse.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
